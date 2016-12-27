@@ -50,7 +50,7 @@ let finalReversedString = String(arrayOfReversedCharacters)
 // Solution
 var hungerLevelOfAnimal: Int
 let minScoreToWinGame: Int
-var studentBirthday: String
+let studentBirthday: String
 var userInputStatusUpdate: String
 
 //optional to assign value when declaring a constant, as you can assign it letter like this:
